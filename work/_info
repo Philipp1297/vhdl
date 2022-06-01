@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eexample_and
+Z0 w1654091071
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z3 dC:/Users/phili/Desktop/Git/vhdl
+Z4 8C:/Users/phili/Desktop/Git/vhdl/Test/andgate.vhd
+Z5 FC:/Users/phili/Desktop/Git/vhdl/Test/andgate.vhd
+l0
+L5 1
+V]glSRZo:dl7_gjHZ0dblM1
+!s100 _hXJNnMnY5;FR>n]gck1o3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1654092070
+!i10b 1
+Z8 !s108 1654092070.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/phili/Desktop/Git/vhdl/Test/andgate.vhd|
+!s107 C:/Users/phili/Desktop/Git/vhdl/Test/andgate.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+DEx4 work 11 example_and 0 22 ]glSRZo:dl7_gjHZ0dblM1
+!i122 1
+l15
+L13 6
+VafV9c=ZCMURn7iz4G7?RF0
+!s100 9ATQNmfURzgz<z;GQbJPL0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/phili/Desktop/Git/vhdl/Test/andgate.vhd|
+!i113 1
+R10
+R11
+Eor_ent
+Z13 w1654091867
+R1
+R2
+!i122 0
+R3
+Z14 8C:/Users/phili/Desktop/Git/vhdl/Test/orgate.vhd
+Z15 FC:/Users/phili/Desktop/Git/vhdl/Test/orgate.vhd
+l0
+L5 1
+V8?B8YCoFf48M=[kJT@VK;3
+!s100 :Fhc65>]Q]:[fL1SKJ^g91
+R6
+32
+Z16 !s110 1654092067
+!i10b 1
+Z17 !s108 1654092067.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/phili/Desktop/Git/vhdl/Test/orgate.vhd|
+Z19 !s107 C:/Users/phili/Desktop/Git/vhdl/Test/orgate.vhd|
+!i113 1
+R10
+R11
+Aor_beh
+R1
+R2
+Z20 DEx4 work 6 or_ent 0 22 8?B8YCoFf48M=[kJT@VK;3
+!i122 0
+l27
+L26 5
+Vz<z_gQUHU[>BCU[;?WXJ;2
+!s100 ea8[MzJDoCnU34>D9Lj7o1
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
+Aor_arch
+R1
+R2
+R20
+!i122 0
+l14
+L13 12
+Vo:U>Mde]^^n84`N55lI2R1
+!s100 5cLB@^<eGd@e@TQc^jR[60
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R10
+R11
