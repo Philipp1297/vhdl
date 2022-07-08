@@ -6,3 +6,8 @@ Tutorial/transcript
 Tutorial/Tutorial.cr.mti
 Tutorial/Tutorial.mpf
 Tutorial/vsim.wlf
+CarryRippleAddierer/work
+*.bak
+CarryRippleAddierer/CarryRippleAddierer.cr.mti
+*.mpf
+CarryRippleAddierer/transcript
